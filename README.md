@@ -67,4 +67,4 @@ MIT. Contributions welcome. All logos and product names are trademarks of their 
 
 ## Live Demo
 
-[Live Demo](https://next-ts-web3-evm.d1a.app)
+[Live Demo]()
